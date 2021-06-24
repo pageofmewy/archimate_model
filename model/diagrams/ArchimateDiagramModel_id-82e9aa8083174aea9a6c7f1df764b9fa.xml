@@ -181,7 +181,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4262842961054d67ae78ebbfc8a42aca"
       targetConnections="id-08b4e3f022fc4c6ca8b9a639e0c8c2b6"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-12|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f9f042d4c03c453fa483f0345ae30559"
@@ -349,9 +350,9 @@
           href="AssociationRelationship_id-e4fcef82b44f4382be08417ff80cd60c.xml#id-e4fcef82b44f4382be08417ff80cd60c"/>
     </sourceConnections>
     <bounds
-        x="947"
+        x="900"
         y="12"
-        width="120"
+        width="213"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
